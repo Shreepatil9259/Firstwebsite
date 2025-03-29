@@ -16,8 +16,8 @@ function AllProducts() {
                         <div class="card" style={{ width: "18rem" }}>
                             <img src={Card1} class="card-img-top" style={{height: "200px"}} alt="..." />
                             <div class="card-body">
-                                <h5 class="card-title">Highway</h5>
-                                <p class="card-text">We make the best Highways.</p>
+                                <h5 class="card-title">Highways</h5>
+                                <p class="card-text">We make the best highways.</p>
                                 
                             </div>
                         </div>
@@ -26,8 +26,8 @@ function AllProducts() {
                         <div class="card" style={{ width: "18rem" }}>
                             <img src={Card3} class="card-img-top" style={{height: "200px"}} alt="..." />
                             <div class="card-body">
-                                <h5 class="card-title">Road</h5>
-                                <p class="card-text">We make the best Road.</p>
+                                <h5 class="card-title">Roads</h5>
+                                <p class="card-text">We make the best roads.</p>
                                 
                             </div>
                         </div>
@@ -36,9 +36,8 @@ function AllProducts() {
                         <div class="card" style={{ width: "18rem" }}>
                             <img src={Card6} class="card-img-top" style={{height: "200px"}} alt="..." />
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">We make the best Highways.</p>
-                                
+                                <h5 class="card-title">Railway Tracks</h5>
+                                <p class="card-text">We make the best railway tracks.</p>    
                             </div>
                         </div>
                     </div>
@@ -49,8 +48,8 @@ function AllProducts() {
                         <div class="card" style={{ width: "18rem" }}>
                             <img src={Card2} class="card-img-top" style={{height: "200px"}} alt="..." />
                             <div class="card-body">
-                                <h5 class="card-title">Building</h5>
-                                <p class="card-text">We make the best Buliding.</p>
+                                <h5 class="card-title">Buildings</h5>
+                                <p class="card-text">We make the best Bulidings.</p>
                                 
                             </div>
                         </div>
@@ -59,8 +58,8 @@ function AllProducts() {
                         <div class="card" style={{ width: "18rem" }}>
                             <img src={Card4} class="card-img-top" style={{height: "200px"}} alt="..." />
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">We make the best Highways.</p>
+                                <h5 class="card-title">Flyovers</h5>
+                                <p class="card-text">We make the best flyovers.</p>
                                 
                             </div>
                         </div>
@@ -69,8 +68,8 @@ function AllProducts() {
                         <div class="card" style={{ width: "18rem" }}>
                             <img src={Card5} class="card-img-top" style={{height: "200px"}} alt="..." />
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">We make the best Highways.</p>
+                                <h5 class="card-title">Tunnels</h5>
+                                <p class="card-text">We make the best Tunnels.</p>
                                 
                             </div>
                         </div>
